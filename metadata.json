@@ -1,0 +1,5 @@
+{
+  "name": "Euromotion SD-Modeller",
+  "description": "A high-fidelity system dynamics modeling tool for Euromotion Automotive, enabling strategic simulation of EV and SDV supply chains using AI-assisted JSON model generation.",
+  "requestFramePermissions": []
+}
